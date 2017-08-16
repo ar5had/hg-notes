@@ -11,7 +11,7 @@ or
 
 `hg export -r .^::.`
 
-`.^` stands for the parent of the current commit
+`.^` stands for the parent of the current commit or you can use rev no here
 
 `.` stands for the current commit
 
