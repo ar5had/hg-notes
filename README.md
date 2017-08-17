@@ -9,6 +9,10 @@ For last two rev:
 
 or 
 
+`hg diff -r tip~4:tip` for last 4 commits
+
+or
+
 `hg export -r .^::.`
 
 `.^` stands for the parent of the current commit or you can use rev no here
