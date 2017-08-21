@@ -24,3 +24,9 @@ or
 check out `hg help revsets` for more
 
 `hg export {multi}` will spit out multiple discrete patches
+
+## Enabling extension just for the duration of one command
+
+For example: To use purge without adding it `~/.hgrc`
+
+`hg --config extensions.purge= purge`
