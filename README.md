@@ -11,6 +11,8 @@ or
 
 `hg diff -r tip~4:tip` for last 4 commits
 
+**Note:** end commit rev no is not inclusive
+
 or
 
 `hg export -r .^::.`
