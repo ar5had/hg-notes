@@ -32,3 +32,9 @@ check out `hg help revsets` for more
 For example: To use purge without adding it `~/.hgrc`
 
 `hg --config extensions.purge= purge`
+
+
+## Some useful links
+1. https://stackoverflow.com/questions/26544681/how-to-apply-several-patches-using-hg-command-line-when-there-is-already-uncommi
+
+2. https://stackoverflow.com/questions/8188605/mercurial-hg-commit-only-certain-files
